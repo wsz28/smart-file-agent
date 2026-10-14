@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "name": "图片",
+      "keywords": [],
+      "extensions": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp", ".svg", ".ico"]
+    },
+    {
+      "name": "文档",
+      "keywords": [],
+      "extensions": [".doc", ".docx", ".txt", ".md", ".odt", ".rtf", ".wps"]
+    },
+    {
+      "name": "表格",
+      "keywords": [],
+      "extensions": [".xls", ".xlsx", ".csv", ".ods"]
+    },
+    {
+      "name": "演示",
+      "keywords": [],
+      "extensions": [".ppt", ".pptx", ".odp", ".key"]
+    },
+    {
+      "name": "PDF",
+      "keywords": [],
+      "extensions": [".pdf"]
+    },
+    {
+      "name": "压缩包",
+      "keywords": [],
+      "extensions": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2"]
+    },
+    {
+      "name": "代码",
+      "keywords": [],
+      "extensions": [".py", ".js", ".ts", ".java", ".c", ".cpp", ".h", ".go", ".rs", ".html", ".css", ".json", ".yml", ".yaml", ".sh", ".bat"]
+    },
+    {
+      "name": "音视频",
+      "keywords": [],
+      "extensions": [".mp3", ".wav", ".flac", ".aac", ".mp4", ".mkv", ".avi", ".mov", ".flv", ".webm"]
+    },
+    {
+      "name": "安装包",
+      "keywords": [],
+      "extensions": [".exe", ".msi", ".dmg", ".apk", ".deb", ".rpm"]
+    },
+    {
+      "name": "票据",
+      "keywords": ["发票", "invoice", "报销", "税票"],
+      "extensions": [".pdf", ".png", ".jpg", ".jpeg"]
+    },
+    {
+      "name": "合同",
+      "keywords": ["合同", "contract", "协议", "agreement"],
+      "extensions": [".pdf", ".doc", ".docx"]
+    }
+  ],
+  "default_category": "未分类",
+  "trash": ["__MACOSX", "Thumbs.db", ".DS_Store", "desktop.ini"]
+}
